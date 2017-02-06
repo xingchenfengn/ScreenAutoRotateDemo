@@ -1,0 +1,1 @@
+# ScreenAutoRotateDemoAndroid实现屏幕自动旋转功能
